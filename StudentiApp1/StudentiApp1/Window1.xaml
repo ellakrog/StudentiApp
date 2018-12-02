@@ -1,0 +1,36 @@
+﻿<Window x:Class="StudentiApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentiApp1"
+        mc:Ignorable="d"
+        Title="Unos Podataka" Height="450" Width="300">
+    <Grid>
+        <Label x:Name="labelIme" Content="Ime" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelPrezime" Content="Prezime" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelRodjenje" Content="Datum Rodjenja" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelGeneracija" Content="Generacija" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelSmer" Content="Smer" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelSemestar" Content="Semestar" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelStanovanje" Content="Ulica Stanovanja" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelBrStanovanja" Content="Broj Stanovanja" HorizontalAlignment="Left" Margin="10,227,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelMesto" Content="Mesto Stanovanja" HorizontalAlignment="Left" Margin="10,258,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelTelefon" Content="Telefon" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxIme" Height="23" Margin="162,10,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxPrezime" Height="23" Margin="162,41,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxGeneracija" Height="23" Margin="162,103,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxSmer" Height="23" Margin="162,134,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxSemestar" Height="23" Margin="162,165,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxUlica" Height="23" Margin="162,196,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxBrUlice" Height="23" Margin="162,227,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxMesto" Height="23" Margin="162,258,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Button x:Name="buttonSacuvaj" Content="Sacuvaj" HorizontalAlignment="Left" Margin="49,378,0,0" VerticalAlignment="Top" Width="75" Click="buttonSacuvaj_Click"/>
+        <Button x:Name="buttonOtkazi" Content="Otkazi" HorizontalAlignment="Left" Margin="162,378,0,0" VerticalAlignment="Top" Width="75" Click="buttonOtkazi_Click"/>
+        <TextBox x:Name="textBoxTelefon" Height="23" Margin="162,289,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Label x:Name="labelID" Content="Student Id" HorizontalAlignment="Left" Margin="10,320,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxID" Height="23" Margin="162,324,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxRodjenje" Height="23" Margin="162,72,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

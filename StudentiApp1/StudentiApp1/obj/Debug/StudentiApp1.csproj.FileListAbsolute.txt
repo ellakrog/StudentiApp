@@ -1,0 +1,39 @@
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.exe.config
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.exe
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.pdb
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.csprojResolveAssemblyReference.cache
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\MainWindow.g.cs
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\App.g.cs
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1_MarkupCompile.cache
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1_MarkupCompile.lref
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\MainWindow.baml
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.g.resources
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.Properties.Resources.resources
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.csproj.GenerateResource.Cache
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.exe
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.pdb
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\Window1.g.cs
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\Window1.baml
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\Window2.g.cs
+C:\Users\berli\Desktop\New folder\StudentiApp1\StudentiApp1\obj\Debug\Window2.baml
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.exe.config
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.exe
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.pdb
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.exe
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.pdb
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.csprojResolveAssemblyReference.cache
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\Window1.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\Window2.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\App.g.cs
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1_MarkupCompile.cache
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1_MarkupCompile.lref
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\MainWindow.baml
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\Window1.baml
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\Window2.baml
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.g.resources
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.Properties.Resources.resources
+C:\Users\MULTINORM-USR-44\Desktop\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.csproj.GenerateResource.Cache
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\StudentiApp1\StudentiApp1\bin\Debug\StudentiApp1.exe.config
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.exe
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\StudentiApp1\StudentiApp1\obj\Debug\StudentiApp1.pdb
